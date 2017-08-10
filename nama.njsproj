@@ -37,6 +37,9 @@
     <Compile Include="routes\users.js" />
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
+    <Content Include="public\webpages\error404.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="public\webpages\index.html">
       <SubType>Code</SubType>
     </Content>
